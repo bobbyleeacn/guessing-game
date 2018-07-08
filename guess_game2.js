@@ -62,7 +62,7 @@ do {
     } else {
       initials = prompt(`Great guess! ${gameGuess} is my number you win. Enter your initials for the record books!`);
       
-      players[x] = new Object();
+      players[x] = {};
       players[x].rank = '';
       players[x].score = 11000 - pastGuesses.length * 1000;
       players[x].name = initials;
