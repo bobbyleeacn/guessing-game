@@ -1,4 +1,4 @@
-# guessing game
+# guessing game .. not to be confused with the crying game.
 
 User has 10 attempts to guess a number.. can you beat the high score?!
 
